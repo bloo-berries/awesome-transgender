@@ -36,6 +36,17 @@
     - [Femme Shapewear](#femme-shapewear)
     - [Binders](#binders)
   - [Financial Assistance](#financial-assistance)
+    - [Asia](#asia)
+      - [China](#china)
+      - [India](#india)
+    - [Australia](#australia)
+    - [Canada](#canada)
+    - [France](#france)
+    - [Netherlands](#netherlands)
+    - [U.S.A (United States of America)](#usa-united-states-of-america)
+    - [United Kingdom \& Ireland](#united-kingdom--ireland)
+  - [Clothing](#clothing)
+    - [Binders](#binders)
   - [Contributing](#contributing)
 
 ## General Websites
@@ -176,6 +187,19 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 - [Wiki Trans](https://wikitrans.co) (French) - Wiki-style resource on transgender topics in French.
 
 #### Netherlands
+### Australia
+
+- [Transgender Victoria (TGV)](https://www.tgv.org.au/) - Victorian transgender advocacy and support organization.
+
+### Canada
+
+- [Egale Canada](https://egale.ca/) - National organization advancing LGBTQI2S human rights through research, education and community engagement.
+
+### France
+
+- [Wiki Trans](https://wikitrans.co) (French) - Wiki-style resource on transgender topics in French.
+
+### Netherlands
 
 - [COC](https://coc.nl/engels) - LGBTQ+ organization in the Netherlands.
 - [Gender Dysforie UMCG](https://www.umcg.nl/-/genderdysforie) (Dutch) - Another gender dysphoria treatment center in the Netherlands.
@@ -207,6 +231,7 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 ### U.S.A (United States of America) & Canada
 
 #### U.S.A (United States of America)
+### U.S.A (United States of America)
 
 - [American Psychological Association (APA)](https://www.apa.org/topics/lgbtq) - APA's resources on LGBTQ+ topics.
 - [Black Trans Advocacy Coalition](https://blacktrans.org/) - Advocacy and support organization for Black transgender individuals.
@@ -221,6 +246,9 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 
 - [Egale Canada](https://egale.ca/) - National organization advancing LGBTQI2S human rights through research, education and community engagement.
 - [The 519](https://www.the519.org/programs/housing-services/) - Toronto-based organization providing housing services and support for LGBTQ+ communities.
+### United Kingdom & Ireland
+
+- [Trans Legal Clinic](https://www.translegalclinic.com/) - Grassroots, trans-led legal clinic providing free legal support to trans people across the UK.
 
 ## Clothing
 
