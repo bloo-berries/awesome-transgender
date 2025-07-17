@@ -4,7 +4,7 @@
 
 ## Contents
 
-- [Awesome Transgender  ](#awesome-transgender--)
+- [Awesome Transgender](#awesome-transgender)
   - [Contents](#contents)
   - [General Websites](#general-websites)
   - [Communities](#communities)
@@ -22,31 +22,20 @@
     - [Asia](#asia)
       - [China](#china)
       - [India](#india)
-    - [Australia \& New Zealand](#australia--new-zealand)
+    - [Australia & New Zealand](#australia-and-new-zealand)
     - [Europe](#europe)
       - [Spain](#spain)
       - [France](#france)
       - [Netherlands](#netherlands)
-      - [United Kingdom \& Ireland](#united-kingdom--ireland)
+      - [United Kingdom & Ireland](#united-kingdom-and-ireland)
     - [Latin America](#latin-america)
-    - [U.S.A (United States of America) \& Canada](#usa-united-states-of-america--canada)
+    - [U.S.A (United States of America) & Canada](#usa-united-states-of-america-and-canada)
       - [U.S.A (United States of America)](#usa-united-states-of-america)
       - [Canada](#canada)
   - [Clothing](#clothing)
     - [Femme Shapewear](#femme-shapewear)
     - [Binders](#binders)
   - [Financial Assistance](#financial-assistance)
-    - [Asia](#asia)
-      - [China](#china)
-      - [India](#india)
-    - [Australia](#australia)
-    - [Canada](#canada)
-    - [France](#france)
-    - [Netherlands](#netherlands)
-    - [U.S.A (United States of America)](#usa-united-states-of-america)
-    - [United Kingdom \& Ireland](#united-kingdom--ireland)
-  - [Clothing](#clothing)
-    - [Binders](#binders)
   - [Contributing](#contributing)
 
 ## General Websites
@@ -171,7 +160,7 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 
 - [Sahodari Foundation](https://sahodari.org/) - Organization working for transgender rights and empowerment in India.
 
-### Australia & New Zealand
+### Australia and New Zealand
 
 - [Transgender Victoria (TGV)](https://www.tgv.org.au/) - Victorian transgender advocacy and support organization.
 - [Gender Minorities Aotearoa](https://genderminorities.com/) - Organization supporting transgender and gender diverse people in New Zealand.
@@ -187,19 +176,6 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 - [Wiki Trans](https://wikitrans.co) (French) - Wiki-style resource on transgender topics in French.
 
 #### Netherlands
-### Australia
-
-- [Transgender Victoria (TGV)](https://www.tgv.org.au/) - Victorian transgender advocacy and support organization.
-
-### Canada
-
-- [Egale Canada](https://egale.ca/) - National organization advancing LGBTQI2S human rights through research, education and community engagement.
-
-### France
-
-- [Wiki Trans](https://wikitrans.co) (French) - Wiki-style resource on transgender topics in French.
-
-### Netherlands
 
 - [COC](https://coc.nl/engels) - LGBTQ+ organization in the Netherlands.
 - [Gender Dysforie UMCG](https://www.umcg.nl/-/genderdysforie) (Dutch) - Another gender dysphoria treatment center in the Netherlands.
@@ -211,7 +187,7 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 - [Transgender Netwerk](https://www.transgendernetwerk.nl/) (Dutch) - Dutch network for transgender rights.
 - [Transvisie](https://transvisie.nl/information/) - Dutch organization supporting transgender health.
 
-#### United Kingdom & Ireland
+#### United Kingdom and Ireland
 
 - [Trans Legal Clinic](https://www.translegalclinic.com/) - Grassroots, trans-led legal clinic providing free legal support to trans people across the UK.
 - [FiveforFive](https://www.fiveforfive.co.uk/) - Collective giving platform supporting transfem causes in the UK.
@@ -228,10 +204,9 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 - [Infancias Trans](https://infanciastrans.org/) - Organization supporting transgender children and their families in Latin America.
 - [Mune Casitresias](https://www.munecastiresias.org/) - Organization supporting transgender rights and advocacy in Latin America.
 
-### U.S.A (United States of America) & Canada
+### U.S.A (United States of America) and Canada
 
 #### U.S.A (United States of America)
-### U.S.A (United States of America)
 
 - [American Psychological Association (APA)](https://www.apa.org/topics/lgbtq) - APA's resources on LGBTQ+ topics.
 - [Black Trans Advocacy Coalition](https://blacktrans.org/) - Advocacy and support organization for Black transgender individuals.
@@ -246,9 +221,6 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 
 - [Egale Canada](https://egale.ca/) - National organization advancing LGBTQI2S human rights through research, education and community engagement.
 - [The 519](https://www.the519.org/programs/housing-services/) - Toronto-based organization providing housing services and support for LGBTQ+ communities.
-### United Kingdom & Ireland
-
-- [Trans Legal Clinic](https://www.translegalclinic.com/) - Grassroots, trans-led legal clinic providing free legal support to trans people across the UK.
 
 ## Clothing
 
