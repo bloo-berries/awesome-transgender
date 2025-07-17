@@ -4,7 +4,7 @@
 
 ## Contents
 
-- [Awesome Transgender](#awesome-transgender)
+- [Awesome Transgender  ](#awesome-transgender--)
   - [Contents](#contents)
   - [General Websites](#general-websites)
   - [Communities](#communities)
@@ -18,18 +18,19 @@
     - [Surgery Resources](#surgery-resources)
     - [Scientific Research](#scientific-research)
   - [Organizations](#organizations)
-    - [Africa](#africa)
+    - [Middle East and Africa](#middle-east-and-africa)
+      - [Africa](#africa)
     - [Asia](#asia)
       - [China](#china)
       - [India](#india)
-    - [Australia & New Zealand](#australia-and-new-zealand)
+    - [Australia and New Zealand](#australia-and-new-zealand)
     - [Europe](#europe)
       - [Spain](#spain)
       - [France](#france)
       - [Netherlands](#netherlands)
-      - [United Kingdom & Ireland](#united-kingdom-and-ireland)
+      - [United Kingdom and Ireland](#united-kingdom-and-ireland)
     - [Latin America](#latin-america)
-    - [U.S.A (United States of America) & Canada](#usa-united-states-of-america-and-canada)
+    - [U.S.A (United States of America) and Canada](#usa-united-states-of-america-and-canada)
       - [U.S.A (United States of America)](#usa-united-states-of-america)
       - [Canada](#canada)
   - [Clothing](#clothing)
@@ -138,7 +139,11 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 - [TGEU (Transgender Europe)](https://tgeu.org/about-transgender-europe/) - Trans-led nonprofit advocating for trans rights and wellbeing in Europe and Central Asia.
 - [Genderbands](https://www.genderbands.org/grants) - Organization providing transition grants for trans and non-binary individuals.
 
-### Africa
+### Middle East and Africa
+
+- [Helem](https://www.helem.net/) - Lebanese organization advocating for LGBTQ+ rights and providing support services in Lebanon and the Middle East.
+
+#### Africa
 
 - [Africa Transgender Network (ATN)](https://africatransgendernetwork.org/) - Regional network advocating for trans and gender diverse rights across Africa.
 - [Be True 2 Me](https://www.betrue2me.org/) - Organization supporting transgender rights and advocacy in Africa.
@@ -158,6 +163,7 @@ Here is a list of LGBTQ+ Organizations aimed at helping transgender individuals.
 
 #### India
 
+- [Humsafar Trust](https://humsafar.org/) - The oldest community-based organization working on queer health and well-being in India since 1994, providing HIV testing, treatment, counseling, and various LGBTQ+ support initiatives.
 - [Sahodari Foundation](https://sahodari.org/) - Organization working for transgender rights and empowerment in India.
 
 ### Australia and New Zealand
