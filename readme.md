@@ -4,7 +4,7 @@
 
 ## Contents
 
-- [Awesome Transgender  ](#awesome-transgender--)
+- [Awesome Transgender](#awesome-transgender)
   - [Contents](#contents)
   - [General Websites](#general-websites)
   - [Communities](#communities)
